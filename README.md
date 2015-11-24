@@ -1,1 +1,2 @@
 # MWHackDay15
+Travelling to/from work in Bangalore has always been hectic. The pain points are many, ranging from haggling with the rickshaw waalas to paying 4x to Uber and Ola. We plan to introduce a MathWorkers' carpool, LocoMWo, Carpool by and for MathWorkers.
